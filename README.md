@@ -19,7 +19,6 @@
 
 ## 🟣 Start Earning Points:
 - Ensure your device stays online with Chrome open to activate your node and start earning Points automatically.
-
 ![image](https://i.postimg.cc/cJnMktmG/Screenshot-4.png)
 
 ## 🟣 How to Maximize Your Point Earnings on MyGate Network
